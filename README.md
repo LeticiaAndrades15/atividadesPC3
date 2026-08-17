@@ -1,3 +1,3 @@
 # atividadesPC3
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/LeticiaAndrades15/atividadesPC3)
+Repositório criado para realização de atividades da disciplina de Programação de Computadores 3.
