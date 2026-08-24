@@ -1,0 +1,7 @@
+import { Conversor } from './conversor.js';
+
+const conversor = new Conversor();
+
+console.log(conversor.celsiusParaFahrenheit(25));
+console.log(conversor.kmParaMilhas(10));
+console.log(conversor.minutosParaHoras(150));
